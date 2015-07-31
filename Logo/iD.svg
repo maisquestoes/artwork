@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="297mm" height="210mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 29700 21000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#201E1E;stroke-width:20}
+    .fil0 {fill:#201E1E}
+    .fil6 {fill:#6B7478}
+    .fil11 {fill:#EEEEEE}
+    .fil5 {fill:#EF6C00}
+    .fil4 {fill:url(#id0)}
+    .fil2 {fill:url(#id1)}
+    .fil10 {fill:url(#id2)}
+    .fil7 {fill:url(#id3)}
+    .fil1 {fill:url(#id4)}
+    .fil3 {fill:url(#id5)}
+    .fil9 {fill:url(#id6)}
+    .fil8 {fill:url(#id7)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="10947.2" y1="1641.15" x2="18103.2" y2="1641.15">
+   <stop offset="0" style="stop-opacity:1; stop-color:#EF6C00"/>
+   <stop offset="0.780392" style="stop-opacity:1; stop-color:#8C4A14"/>
+   <stop offset="0.701961" style="stop-opacity:1; stop-color:#EF6C00"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#282829"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="10942.3" y1="7947.32" x2="18095.2" y2="7947.32">
+   <stop offset="0" style="stop-opacity:1; stop-color:#282829"/>
+   <stop offset="0.290196" style="stop-opacity:1; stop-color:#8B4A15"/>
+   <stop offset="0.419608" style="stop-opacity:1; stop-color:#EF6C00"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#EF6C00"/>
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="11600.1" y1="11954.7" x2="18756.1" y2="11954.7">
+  </linearGradient>
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="18197.9" y1="18815.6" x2="18197.9" y2="14562.4">
+   <stop offset="0" style="stop-opacity:1; stop-color:#282829"/>
+   <stop offset="0.478431" style="stop-opacity:1; stop-color:#8B4A15"/>
+   <stop offset="0.470588" style="stop-opacity:1; stop-color:#EF6C00"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#EF6C00"/>
+  </linearGradient>
+  <linearGradient id="id4" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="17545" y1="8502.1" x2="17545" y2="4248.91">
+  </linearGradient>
+  <linearGradient id="id5" gradientUnits="userSpaceOnUse" x1="11501.5" y1="8505.26" x2="11501.5" y2="1088.58">
+   <stop offset="0" style="stop-opacity:1; stop-color:#EF6C00"/>
+   <stop offset="0.768627" style="stop-opacity:1; stop-color:#8C4A14"/>
+   <stop offset="0.729412" style="stop-opacity:1; stop-color:#EF6C00"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#282829"/>
+  </linearGradient>
+  <linearGradient id="id6" gradientUnits="userSpaceOnUse" xlink:href="#id5" x1="12154.4" y1="18818.8" x2="12154.4" y2="11402.1">
+  </linearGradient>
+  <linearGradient id="id7" gradientUnits="userSpaceOnUse" xlink:href="#id1" x1="11595.2" y1="18260.8" x2="18748.1" y2="18260.8">
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0 str0" y="10251" width="29700" height="10749"/>
+  <g id="_226044728">
+   <polygon class="fil1" points="16996,4249 16992,8502 18095,7393 18098,4249 "/>
+   <polygon class="fil2" points="18095,7393 10942,7416 12033,8498 16992,8502 "/>
+   <polygon class="fil3" points="10942,7416 12041,8505 12061,1089 10947,2194 "/>
+   <polygon class="fil4" points="17009,1089 18103,2185 10947,2194 12061,1089 "/>
+   <polygon class="fil5" points="18103,2185 17009,1089 17001,4295 18105,4294 "/>
+   <polygon class="fil6" points="13690,7397 14798,7400 14800,6302 15900,6300 15900,7395 16988,7395 16988,8500 15900,8500 15900,9596 14805,9598 14803,8498 13690,8498 "/>
+   <polygon class="fil7" points="17649,14562 17645,18816 18748,17706 18750,14562 "/>
+   <polygon class="fil8" points="18748,17706 11595,17730 12686,18811 17645,18816 "/>
+   <polygon class="fil9" points="11595,17730 12694,18819 12714,11402 11600,12507 "/>
+   <polygon class="fil10" points="17662,11402 18756,12499 11600,12507 12714,11402 "/>
+   <polygon class="fil5" points="18756,12499 17662,11402 17654,14609 18758,14608 "/>
+   <polygon class="fil11" points="14343,17711 15451,17714 15453,16615 16553,16614 16553,17709 17641,17709 17641,18813 16553,18813 16553,19910 15458,19911 15456,18811 14343,18811 "/>
+  </g>
+ </g>
+</svg>
